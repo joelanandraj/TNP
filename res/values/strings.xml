@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Home Test Page</string>
+    <string name="hello_world">First App</string>
+    <string name="action_settings">Settings</string>
+  <string name="Basic">First Test Page</string>
+  <string name="W">Welcome</string>
+  <string name="Dboard">DashBoard</string>
+  <string-array name="it">
+      <item >History</item>
+      <item >License</item>
+      <item >Insurance</item>
+  </string-array>
+</resources>
